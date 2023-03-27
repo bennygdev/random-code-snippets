@@ -1,5 +1,5 @@
-# node-projects
-Just a repository showing mini projects made with nodeJS and uses of npm packages.
+# random-code-snippets
+Repository showing random code snippets for any code related projects, might post any experimental mini tests with node, react or other languages.
 
 # langaugeguesser
 Basic langauge guesser using the langdetect and langs package. Once installed, go ahead and run in the terminal:
